@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailPlanetActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="15dp">
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:background="@drawable/bumi"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BUMI"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:paddingTop="15dp"
+            android:textStyle="bold"
+            android:id="@+id/txtPlanet"/>
+
+        <TextView
+            android:id="@+id/txtDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:gravity="center"
+            android:text="Ini sipat manusia susah susah sama sama ini sipat manusia udah kaya sombong nauzubillah
+jangan lah kau pikirkan dunia jangan lah kau pikirkan dunia jangan lah sombong oke oke oke"/>
+
+    </LinearLayout>
+
+
+</ScrollView>

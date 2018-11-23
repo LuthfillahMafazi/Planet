@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Planetzz</string>
+    <string-array name="nama_planet_dalam">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+    </string-array>
+    <string-array name="nama_planet_luar">
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Neptunus</item>
+        <item>Uranus</item>
+    </string-array>
+    <string-array name="isi_planet_dalam">
+        <item>Planet merkurius merupakan planet yang paling dekat dengan matahari dengan jaraknya kurang lebih 58 x 10 pangkat 6 cahaya dan karenanyalah suhu pada planet ini sangat ekstrim. Di siang hari suhunya bisa mencapai 4270 derajat celcius sedangkan di malam hari bisa mencapai -1700 derajat celcius. Planet merkurius memiliki tingkat eksentrisitas yang cukup besar yaitu berada pada angka 0,206 dengan hal tersebut menyebabkan jarak antara planet merkurius dan matahari bervariasi dengan cukup besar.
+
+Perbedaan jarak terjauh antara planet merkurius dengan matahari (aphelium) adalah 57,9 juta km. sedangkan jarak terdekat planet merkurius dengan matahari (pherilium) adalah 22 juta km. planet merkurius tidak memiliki lapisan atmosfer seperti di bumi sehingga langit di merkurius akan bewarna hitam. Kerapatan planet merkurius sebesar 5,43 gram per meter kubik. Permukaan di planet merkurius hampir mirip dengan permukaan bulan hal ini dikarenakan merkurius tidak memiliki atmosfer sehingga sangat sering mengalami benturan dengan benda langit lainnya. merkurius memiliki waktu revolusi atau waktu mengelilingi matahari hanya dalam waktu 88 hari. Sedangkan masa rotasinya berkisar 59 hari. Massa planet merkurius sebesar 0,52 lebih besar dari masaa bumi dengan diameternya sebesar 4867 km.</item>
+        <item>Planet venus memiliki warna yang cerah dan bila dibumi dianggap sebagai bintang kejora atau menurut orang jawa lintang panjer lor. Hal ini disebabkan karena planet venus jika di malam hari akan menjadi bintang yang paling terang dengan cahanya yang bersinar. Orbit planet venus hampir membentuk lingkaran karena memiliki tingkat eksentitritas sebesar 0,007. Jarak planet venus dengan matahari sebesar 0,72 satuan astronomi atau 108 x 10 pangkat 6 satuan cahaya.
+
+Suhu permukaan venus bisa mencapai 4800 derajat celcius karena merupakan salah satu efek dari gas rumah kaca. Karena sangat terangnya planet ini bahkan beberapa ahli astronomi mengatakan jika anda mengunjungi venus, anda tidak akan bisa melihat bagian tubuh anda karena saking silaunya. Kerapatan planet venus adalah 5,24 gram per meter kubik. Venus juga merupakan planet yang paling dekat dengan bumi oleh karena itu venus dapat terlihat dari bumi lebih jelas dibandingkan dengan planet lainnya yang terdekat. Venus tidak memiliki satelit seperti planet merkurius.</item>
+        <item>Planet ketiga dari matahari adalah bumi. Bumi diklaim menjadi satu-satunya planet yang memiliki kehidupan karena bumi memiliki atmosfer yang berfungsi sebagai pelindung dari benda langit lain saat jatuh ke bumi serta membuat keadaan siang dan malam lebih mudah disesuaikan dengan tubuh manusia dan makhluk hidup lainnya di dalamnya. Perbedaan suhu dari siang dan malam tidak terlalu ekstrim hanya pada beberapa daerah saja seperti daerah gurun yang memiliki perbedaan suhu cukup besar antara siang dan malam namun meskipun demikian perbedaannya tidak sebesar yang dimiliki oleh planet lainnya.
+
+Bumi mengorbit matahari sebagai pusatnya dengan tingkat enksentristas 0,017 dan hal ini membuat jalur orbitnya hampir berbentuk lingkaran namun tidak sempurna. jarak rata-rata bumi ke matahari sebesar 150 juta km menurut satuan astronomi (satuan cahaya). Bumi memiliki kerapatan sebesar 5,52 gram per meter kubiknya. Waktu rotasi bumi selama 23 jam 56 menit atau dibulatkan menjadi 24 jam dan kemudian disebut dengan satu hari oleh para penduduk bumi. Masa revolusi atau waktu perputaran bumi terhadap matahari selama 365 hari 6 jam 9 menit 10 detik atau dibulatkan menjadi 365,25 hari dan kemudian disebut dengan satu tahun.</item>
+        <item>Planet mars merupakan planet ke empat dari matahari yang memiliki jarak 228 juta km satuan astronomi. Mars memiliki kerapatan sebesar 0,093 dan diameternya sebesar 6.787 km atau setengah dari diameter bumi. Jika dilihat dari bumi, planet mars juga cukup dapat dilihat meskipun tidak seterang planet venus. Planet mars disebut juga sebagai planet merah karena memang permukaannya bewarna merah karena pantulan cahaya dari matahari.
+
+Planet mars memiliki dua satelit yang mengelilingi mars yang bernama phobos dan delmos. Massa planet mars sebesar 0,188 x massa planet bumi. Mars memilki waktu revolusi selama 687 hari sedangkan rotasinya selama 24,6 jam. Para astronot mengklaim bahwa ada kemungkinan terdapat air di planet mars karena sudah ditemukan beberapa bukti ditemukannya aliran sungai dan salju. Namun jumlahnya berapa belum diketahui dengan pasti. Saat ini para ilmuwan masih meneliti kemungkinan ini karena jika memang terdapat air di planet mars maka akan ada kemungkinan juga bahwa manusia bisa hidup di dalam planet mars karena planet bumi saat ini sudah mengalami kerusakan yang semakin fatal.</item>
+    </string-array>
+
+    <string-array name="isi_planet_luar">
+        <item>Planet Jupiter merupakan planet terbesar di tata surya dengan diameternya sebesar 139503 km. jarak planet Jupiter dengan matahari diperkirakan sejauh 5,2 satuan astronomi. Massa planet Jupiter sangat besar yaitu 317,900 x massa bumi. Jupiter membutuhkan waktu selama 9,9 jam untuk melakukan rotasi dan membutuhkan waktu selama 11,9 tahun untuk berevolusi mengelilingi matahari.
+
+Planet Jupiter ini diperkirakan memiliki 16 buah satelit dengan 4 satelit besar yang dinamakan sebagai IO, Europa, Ganymede dan Calisto. Planet Jupiter bila dilihat akan bewarna coklat dengan skema warna yang indah.
+
+</item>
+        <item>Planet selanjutnya adalah saturnus yang memilki jarak 19,2 satuan astronomi dengan matahari. Saturnus merupakan planet yang memiliki cincin indah namun cincin tersebut berbentuk miring dari bulatan planet saturnus. Cincin di planet saturnus terbentuk oleh debu dan es yang kemudian membentuk melingkari planet. Sebuah karya tuhan yang sangat menakjubkan dan mempesona. Selain itu saturnus juga memancarkan cahaya terang dan indah sehingga para astronom yang mampir ke saturnus merasa bagaikan di surga.
+
+Saturnus memiliki masa rotasi selama 10,4 jam dan masa revolusinya selama 29,5 tahun. Berat saturnus mencapai 95,220 x berat bumi dengan diameternya cukup besar yaitu 12000 km. saturnus memiliki 9 satelit yaitu mimas, enceladus, thetys, dionis, rhea, titan, hiperion, lapetus dan phoebe.</item>
+        <item>Planet selanjutnya dalam tata surya yang cukup besar ukurannya adalah planet Uranus. Planet Uranus berjarak 2,87 miliyar kilometer dari matahari dengan diameter sebesar 49000 km. berat planet Uranus sebesar 14,55 x massa bumi.
+
+Planet Uranus membutuhkan waktu selama 10 jam 49 menit dengan masa revolusinya selama 84 tahun dalam mengelilingi bumi. Planet Uranus juga memiliki cincin sama dengan planet saturnus namun tidak sebesar cincin yang dimiliki oleh saturnus. Uranus memiliki 5 satelit yaitu Miranda, umbriel, ariel, titania dan oberion</item>
+        <item>Planet neptunus diklaim sebagai kembaran dari planet Uranus karena memiliki bentuk yang hampir sama begitu pula dengan warnanya. Neptunus memiliki masa rotasi 15,7 jam sedangkan masa revolusinya selama 164,8 tahun, waktu yang sangat lama karena neptunus merupakan planet terjauh dari matahari dibandingkan dengan jenis planet yang berada di dalam sistem tata surya Massanya 17,320 x massa bumi.
+
+Jarak planet neptunus dengan matahari berkisar 30,07 satuan astronomi. Neptunus memiliki 2 satelit yang diberi nama triton dan Nereid.</item>
+    </string-array>
+</resources>
